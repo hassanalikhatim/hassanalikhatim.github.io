@@ -1,5 +1,5 @@
 __pycache__
 __notebooks__
-ignore
-_code
+__ignore__
+_code_
 Notebook.ipynb
